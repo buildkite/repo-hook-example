@@ -1,0 +1,5 @@
+name: "Repo Hook Example"
+description: "An example of how to use repository hooks to set environment variables at build time"
+steps:
+  - command: "buildkite-agent pipeline upload"
+    label: ":pipeline: Upload pipeline"
