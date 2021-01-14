@@ -4,6 +4,8 @@ steps:
   # This example references GIT_SHORT_HASH inside a script
   - label: ":thinking_face: Check the env var exists"
     command: "./check_environment_var.sh"
+    env:
+      TEST: ${BUILDKITE_COMMIT:0:7}
 
   - wait: ~
 
