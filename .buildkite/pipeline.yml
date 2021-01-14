@@ -5,7 +5,7 @@ steps:
   - label: ":thinking_face: Check the env var exists"
     command: "./check_environment_var.sh"
     env:
-      TEST: ${BUILDKITE_COMMIT:0:7}
+      TEST: "${BUILDKITE_COMMIT:0:7}"
 
   - wait: ~
 
