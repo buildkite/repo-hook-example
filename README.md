@@ -1,6 +1,6 @@
 # Buildkite Pre-Command Environment Example
 
-[![Build status](https://badge.buildkite.com/41e2fa5a6bd3ef5964a2b60076bfd03dd760112dcaca3de1c2.svg?branch=main)](https://buildkite.com/buildkite/repo-hook-example)
+[![Build status](https://badge.buildkite.com/41e2fa5a6bd3ef5964a2b60076bfd03dd760112dcaca3de1c2.svg?branch=main)](https://buildkite.com/buildkite/repo-hook-example/builds/latest?branch=main)
 [![Add to Buildkite](https://img.shields.io/badge/Add%20to%20Buildkite-14CC80)](https://buildkite.com/new)
 
 This repository is an example Buildkite pipeline that demonstrates how environment variables can be set through a [repository hook](https://buildkite.com/docs/agent/v3/hooks).
