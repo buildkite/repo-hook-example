@@ -5,7 +5,7 @@
 
 This repository is an example Buildkite pipeline that demonstrates how environment variables can be set through a [repository hook](https://buildkite.com/docs/agent/v3/hooks).
 
-👉 **See this example in action:** [buildkite/repo-hook-example](https://buildkite.com/buildkite/repo-hook-example/builds/latest)
+👉 **See this example in action:** [buildkite/repo-hook-example](https://buildkite.com/buildkite/repo-hook-example/builds/latest?branch=main)
 
 See the full [Getting Started Guide](https://buildkite.com/docs/guides/getting-started) for step-by-step instructions on how to get this running, or try it yourself:
 
